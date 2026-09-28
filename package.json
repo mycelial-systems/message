@@ -32,7 +32,7 @@
     "uint8arrays": "^5.1.1"
   },
   "devDependencies": {
-    "@substrate-system/tapout": "^0.0.41",
+    "@substrate-system/tapout": "^0.0.42",
     "@substrate-system/tapzero": "^0.10.16",
     "auto-changelog": "^2.4.0",
     "esbuild": "^0.28.1",
